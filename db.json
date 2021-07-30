@@ -1,16 +1,81 @@
 {
-  "posts":[
+  "currentUser": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "id": 1,
+      "username": "asd",
+      "calories": 1231,
+      "minutes": 123
     }
   ],
-  "comments" : [
+  "foods": [
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "id": 1,
+      "type": "Breakfast",
+      "meal": "4 Egg Whites",
+      "weight": 50,
+      "calories": 200
+    },
+    {
+      "id": 2,
+      "type": "Lunch",
+      "meal": "Chicken Breast",
+      "weight": 150,
+      "calories": 500
+    },
+    {
+      "id": 3,
+      "type": "Dinner",
+      "meal": "Pot Roast",
+      "weight": 160,
+      "calories": 600
+    },
+    {
+      "type": "Breakfast",
+      "meal": "Oats",
+      "weight": 50,
+      "calories": 150,
+      "id": 6
+    },
+    {
+      "type": "Dinner",
+      "meal": "Potatos au gratin",
+      "weight": 100,
+      "calories": 200,
+      "id": 8
+    },
+    {
+      "type": "Lunch",
+      "meal": "Chiptole burrito",
+      "weight": 150,
+      "calories": 200,
+      "id": 9
+    },
+    {
+      "type": "Breakfast",
+      "meal": "poop",
+      "weight": 10,
+      "calories": 356,
+      "id": 10
+    }
+  ],
+  "fitness": [
+    {
+      "id": 1,
+      "type": "Cardio",
+      "activity": "2 Mile Run",
+      "duration": 20
+    },
+    {
+      "id": 2,
+      "type": "Weight Training",
+      "activity": "Chest workout",
+      "duration": 45
+    },
+    {
+      "type": "Weight Training",
+      "activity": "poop",
+      "duration": 45,
+      "id": 3
     }
   ]
 }
