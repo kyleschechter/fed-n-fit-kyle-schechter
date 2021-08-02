@@ -49,13 +49,6 @@
       "weight": 150,
       "calories": 200,
       "id": 9
-    },
-    {
-      "type": "Breakfast",
-      "meal": "poop",
-      "weight": 10,
-      "calories": 356,
-      "id": 10
     }
   ],
   "fitness": [
@@ -70,12 +63,6 @@
       "type": "Weight Training",
       "activity": "Chest workout",
       "duration": 45
-    },
-    {
-      "type": "Weight Training",
-      "activity": "poop",
-      "duration": 45,
-      "id": 3
     }
   ]
 }
